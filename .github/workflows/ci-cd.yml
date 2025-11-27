@@ -33,6 +33,3 @@ deploy:
 steps:
   - name: Deploy a GitHub Pages
     uses: actions/deploy-pages@v4
-steps:
-- name: Deploy a GitHub Pages
-uses: actions/deploy-pages@v4
